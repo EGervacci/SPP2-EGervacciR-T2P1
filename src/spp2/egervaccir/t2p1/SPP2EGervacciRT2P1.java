@@ -16,6 +16,8 @@ public class SPP2EGervacciRT2P1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Erick Eduardo Gervacci Romero A01410809 (IIS)
+        //Calculadora de salarios
     Scanner k = new Scanner (System.in);
     int count;
     
